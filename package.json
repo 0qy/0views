@@ -1,0 +1,19 @@
+{
+  "name": "0views",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0qy/0views.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0qy/0views/issues"
+  },
+  "homepage": "https://github.com/0qy/0views#readme"
+}
