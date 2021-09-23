@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/0qy/0views/issues"
   },
-  "homepage": "https://github.com/0qy/0views#readme"
+  "homepage": "https://github.com/0qy/0views#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
